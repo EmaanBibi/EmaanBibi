@@ -7,7 +7,7 @@
 - 🌱 Currently learning and building projects in **Python**, **Java**, **SQL**, and **Machine Learning**
 - 💻 Experienced with Object-Oriented Programming (Java), database management (MySQL), and Linux environments
 - 👯 Looking to collaborate on beginner-to-intermediate AI/ML, Python, or web development projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emaan-bibi-b46311452/) or via email at `bibiemaan784@gmail.con`
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emaan-bibi-b46311452/) or via email at `bibiemaan784@gmail.com`
 
 ### Tech Stack & Tools
 - **Languages:** Python, Java, SQL, HTML/CSS
