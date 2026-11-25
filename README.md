@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Emaan 👋
 
-<!--
-**EmaanBibi/EmaanBibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Artificial Intelligence Student**  
+🚀 **Open to AI, Machine Learning, and Software Engineering Internships**
 
-Here are some ideas to get you started:
+### About Me
+- 🌱 Currently learning and building projects in **Python**, **Java**, **SQL**, and **Machine Learning**
+- 💻 Experienced with Object-Oriented Programming (Java), database management (MySQL), and Linux environments
+- 👯 Looking to collaborate on beginner-to-intermediate AI/ML, Python, or web development projects
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emaan-bibi-b46311452/) or via email at `bibiemaan784@gmail.con`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Tools
+- **Languages:** Python, Java, SQL, HTML/CSS
+- **Databases & Tools:** MySQL, Git, GitHub, Linux (Ubuntu), NetBeans
